@@ -1,6 +1,6 @@
 //
 //  AsyncImageView.swift
-//  asynchronously loading image from URL with succes, failure and empty phases.
+//  
 //
 //  Created by Tamás Nieszner on 2021. 11. 04..
 //
